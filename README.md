@@ -25,7 +25,7 @@ $ javac *.java
 $ java Cargo
 ```
 
-## Demonstration
+## Screenshots
 ![image](https://github.com/alvinau0427/ITP4510-Assignment/blob/master/test/img_test_1.jpg)
 
 ## License
