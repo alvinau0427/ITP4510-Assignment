@@ -3,9 +3,8 @@
 
 > Java Program: Cargo program for the order sequence in command console
 
-[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
-[![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+[![Build Status](https://travis-ci.com/alvinau0427/ITP4510-Assignment.svg?branch=master)](https://travis-ci.org/alvinau0427/ITP4510-Assignment)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## Getting Started
 1. Using stacks for the cargos rearrangement problem with the `holding buffer tracks (HBT)` operate in a `FILO (First In Last Out)` manner and so may be regarded as stacks. When rearranging cargos, only the following moves are permitted.
@@ -29,7 +28,7 @@ $ java Cargo
 ![image](https://github.com/alvinau0427/ITP4510-Assignment/blob/master/test/img_test_1.jpg)
 
 ## License
-- ITP4510-Assignment is released under the [MIT license](https://opensource.org/licenses/MIT).
+- ITP4510-Assignment is released under the [MIT License](https://opensource.org/licenses/MIT).
 ```
 Copyright (c) 2020 alvinau0427
 
