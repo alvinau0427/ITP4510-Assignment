@@ -25,7 +25,7 @@ $ java Cargo
 ```
 
 ## Screenshots
-![image](https://github.com/alvinau0427/ITP4510-Assignment/blob/master/test/img_test_1.jpg)
+![Image](https://github.com/alvinau0427/ITP4510-Assignment/blob/master/test/img_test_1.jpg)
 
 ## License
 - ITP4510-Assignment is released under the [MIT License](https://opensource.org/licenses/MIT).
